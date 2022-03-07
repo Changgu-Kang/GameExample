@@ -1,0 +1,71 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 16
+VisualStudioVersion = 16.0.31624.102
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{888888A0-9F3D-457C-B088-3A5042F75D52}") = "99.ShootingGame", "ShootingGame\99.ShootingGame.pyproj", "{3C661792-94DD-4EAB-BFCA-E8CE4DA41498}"
+EndProject
+Project("{888888A0-9F3D-457C-B088-3A5042F75D52}") = "02.GameSound", "GameSound\02.GameSound.pyproj", "{21857BC9-2133-420D-86CD-6387ED2A73DF}"
+EndProject
+Project("{888888A0-9F3D-457C-B088-3A5042F75D52}") = "05.LoadingGIF_Image", "LoadingGIF_Image\05.LoadingGIF_Image.pyproj", "{13EEDB59-F7E4-4AB8-B5FB-08181E02EC0F}"
+EndProject
+Project("{888888A0-9F3D-457C-B088-3A5042F75D52}") = "03.KeyboardEvent", "KeyboardEvent\03.KeyboardEvent.pyproj", "{91B10991-3863-4C89-A57F-D25B60EC5A44}"
+EndProject
+Project("{888888A0-9F3D-457C-B088-3A5042F75D52}") = "01.BasicForm", "BasicForm\01.BasicForm.pyproj", "{ABCEAD40-5731-4415-AF20-AED0A770AE20}"
+EndProject
+Project("{888888A0-9F3D-457C-B088-3A5042F75D52}") = "04.ObjectControlByKeyEvent", "ObjectControlByKeyEvent\04.ObjectControlByKeyEvent.pyproj", "{5D6B3D8E-EDA4-42FC-9EA1-ACCB8909297C}"
+EndProject
+Project("{888888A0-9F3D-457C-B088-3A5042F75D52}") = "07.Menu", "Menu\07.Menu.pyproj", "{311F2109-9A06-478C-A87E-F40768616442}"
+EndProject
+Project("{888888A0-9F3D-457C-B088-3A5042F75D52}") = "06.MouseEvent", "MouseEvent\06.MouseEvent.pyproj", "{6671B6E6-B826-45CD-84A3-0346ECE88E84}"
+EndProject
+Project("{888888A0-9F3D-457C-B088-3A5042F75D52}") = "08.SceneChange", "SceneChange\08.SceneChange.pyproj", "{C958A53A-6ED3-4569-B8CD-2A2B43CC4368}"
+EndProject
+Project("{888888A0-9F3D-457C-B088-3A5042F75D52}") = "98.WarTank", "WarTank\98.WarTank.pyproj", "{A99C99E7-A64B-4B01-9FF8-1243617E6AD6}"
+EndProject
+Project("{888888A0-9F3D-457C-B088-3A5042F75D52}") = "09.ImageRotate", "ImageRotate\09.ImageRotate.pyproj", "{F946877E-74AC-43EF-818E-EA29EF03B2C3}"
+EndProject
+Project("{888888A0-9F3D-457C-B088-3A5042F75D52}") = "10.ImageResize", "ImageResize\10.ImageResize.pyproj", "{453D912F-30CE-4520-BA8B-54A4B8B5AD29}"
+EndProject
+Project("{888888A0-9F3D-457C-B088-3A5042F75D52}") = "11.BezierCurvePos", "BezierCurvePos\11.BezierCurvePos.pyproj", "{27E94446-FC0E-4D45-9B81-C5F29E7AC708}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{3C661792-94DD-4EAB-BFCA-E8CE4DA41498}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{3C661792-94DD-4EAB-BFCA-E8CE4DA41498}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{21857BC9-2133-420D-86CD-6387ED2A73DF}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{21857BC9-2133-420D-86CD-6387ED2A73DF}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{13EEDB59-F7E4-4AB8-B5FB-08181E02EC0F}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{13EEDB59-F7E4-4AB8-B5FB-08181E02EC0F}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{91B10991-3863-4C89-A57F-D25B60EC5A44}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{91B10991-3863-4C89-A57F-D25B60EC5A44}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{ABCEAD40-5731-4415-AF20-AED0A770AE20}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{ABCEAD40-5731-4415-AF20-AED0A770AE20}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{5D6B3D8E-EDA4-42FC-9EA1-ACCB8909297C}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{5D6B3D8E-EDA4-42FC-9EA1-ACCB8909297C}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{311F2109-9A06-478C-A87E-F40768616442}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{311F2109-9A06-478C-A87E-F40768616442}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{6671B6E6-B826-45CD-84A3-0346ECE88E84}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{6671B6E6-B826-45CD-84A3-0346ECE88E84}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{C958A53A-6ED3-4569-B8CD-2A2B43CC4368}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{C958A53A-6ED3-4569-B8CD-2A2B43CC4368}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{A99C99E7-A64B-4B01-9FF8-1243617E6AD6}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{A99C99E7-A64B-4B01-9FF8-1243617E6AD6}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{F946877E-74AC-43EF-818E-EA29EF03B2C3}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{F946877E-74AC-43EF-818E-EA29EF03B2C3}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{453D912F-30CE-4520-BA8B-54A4B8B5AD29}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{453D912F-30CE-4520-BA8B-54A4B8B5AD29}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{27E94446-FC0E-4D45-9B81-C5F29E7AC708}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{27E94446-FC0E-4D45-9B81-C5F29E7AC708}.Release|Any CPU.ActiveCfg = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {6E05E209-4E32-4948-A461-215E640801D7}
+	EndGlobalSection
+EndGlobal
